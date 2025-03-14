@@ -1,0 +1,21 @@
+{
+    "entrées": {
+        "Soupe du jour": 5,
+        "Salade de chèvre chaud": 7,
+        "Carpaccio de boeuf": 9,
+        "Assiette de crudités": 6
+    },
+    "plats principaux": {
+        "Filet de saumon, riz sauvage": 15,
+        "Poulet rôti, pommes de terre": 14,
+        "Lasagnes maison": 12,
+        "Steak-frites": 16,
+        "Burger maison": 13
+    },
+    "desserts": {
+        "Mousse au chocolat": 6,
+        "Tarte aux pommes": 5,
+        "Crème brûlée": 7,
+        "Café gourmand": 8
+    }
+}
